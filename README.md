@@ -1,4 +1,4 @@
-# 🤖 Contextra: Production-Grade Grounded RAG Chatbot
+# 🤖 Contextra: Your Knowledge Assistant RAG Chatbot
 
 A production-grade, secure, and evaluation-backed **Retrieval-Augmented Generation (RAG)** system combining dense semantic retrieval (**FAISS**), sparse keyword retrieval (**BM25**), pure **Reciprocal Rank Fusion (RRF)**, optional **Cross-Encoder Reranking**, and **Strict Evidence Citation Verification**.
 
