@@ -1,0 +1,62 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Jupyter Notebooks
+notebook/
+*.ipynb
+
+# Generated vector stores (auto-rebuilt at runtime)
+data/vector_store/
+faiss_store/
+
+# IDE settings
+.vscode/
+
+# Personal / local docs
+Project Overview.docx
+walkthrough.md
+"how to run.txt"
+Interview Ques.txt
+
+# Placeholder / unused scripts
+main.py
+
+# Large data files
+books.jsonl
+
+# Python version pin (local only)
+.python-version
+
+# Application logs & caches
+logs/
+.pytest_cache/
+
+# Chat history sessions
+data/chat_sessions/
+
+# Agent documentation & working reports
+rag-upgrade-md/
+reports/
+*.zip
+how to run.txt
+Interview Ques.txt
+Project Overview.docx
+walkthrough.md
+AGENTS.md
+Q&A.md
+changes.md
+
+# Evaluation generated outputs
+evaluation/results/*.json
+!evaluation/results/.gitkeep

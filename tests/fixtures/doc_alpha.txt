@@ -1,0 +1,4 @@
+The transformer model uses self-attention to process sequences in parallel.
+The attention mechanism computes weighted sums of value vectors based on query-key similarities.
+BERT is a transformer-based language model pre-trained using masked language modeling and next-sentence prediction.
+Transformers replaced recurrent networks in many NLP tasks due to their ability to parallelize computation.

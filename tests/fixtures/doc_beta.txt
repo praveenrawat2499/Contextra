@@ -1,0 +1,4 @@
+Gradient descent minimizes a loss function by iteratively adjusting model parameters in the direction of the negative gradient.
+The learning rate controls the step size during each gradient descent update.
+Overfitting occurs when a model learns noise in training data and fails to generalize to unseen examples.
+Regularization techniques such as L2 weight decay help reduce overfitting.

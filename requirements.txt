@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+pandas
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+typesense
+langchain_openai
+langgraph
+streamlit
+rank-bm25
